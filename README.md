@@ -1,4 +1,4 @@
-# FitzHugh–Nagumo Excitability, Farey Arithmetic, and Neural Network Training
+# (FHN) - FitzHugh–Nagumo Excitability, Farey Arithmetic, and Neural Network Training
 
 
 ## Status Legend
